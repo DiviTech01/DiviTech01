@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiviTech01
 - 👀 I’m interested in Building Solutions for a better community
-- 🌱 I’m currently learning Python/(Backend relateds)
+- 🌱 I’m currently learning Python/(Backend related)
 - 💞️ I’m looking to collaborate on (oh well, anything fun)
 - 📫 Reach me through email; divineokonitu01@gmail.com
 - 😄 Pronouns: GoDLikE
