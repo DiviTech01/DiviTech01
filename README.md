@@ -128,7 +128,7 @@ const divine = {
 
 <a href="mailto:divineokonitu01@gmail.com"><img src="https://img.shields.io/badge/Email-divineokonitu01%40gmail.com-6C3CE1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
 <a href="https://afrizonemart.com"><img src="https://img.shields.io/badge/AfriZoneMart-FBAC34?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://africanyouthdatabase.org"><img src="https://img.shields.io/badge/AYO-000066?style=for-the-badge&logo=africa&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://africanyouthobservatory.org"><img src="https://img.shields.io/badge/AYO-000066?style=for-the-badge&logo=africa&logoColor=white&labelColor=0d1117" /></a>
 
 </div>
 
